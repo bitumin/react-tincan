@@ -1,6 +1,6 @@
 {
   "name": "react-tincan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React TinCanJS",
   "author": "bitumin",
   "license": "ISC",
@@ -15,9 +15,7 @@
     "build": "rollup -c",
     "start": "rollup -c -w"
   },
-  "dependencies": {
-    "tincanjs": "0.50.0"
-  },
+  "dependencies": {},
   "peerDependencies": {
     "react": "^16.8.0",
     "react-dom": "^16.8.0"

@@ -1,5 +1,5 @@
 import React from 'react';
-import TinCan from 'tincanjs';
+import './tincan-min';
 
 const TincanContext = React.createContext();
 
